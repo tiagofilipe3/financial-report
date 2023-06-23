@@ -1,6 +1,12 @@
 // This logic mimics the back-end to get the full report,
 // which gets all categories and sum the transactions of each category sorted by month
-import { TCategory, TPeriod, TTransaction } from './types.ts'
+import {
+  TCategory,
+  TItemPeriod,
+  TPeriod,
+  TReport,
+  TTransaction,
+} from './types.ts'
 
 const getReport = async () => {
   const transactions: TTransaction[] = await fetchData('transactions')
@@ -13,13 +19,10 @@ const getReport = async () => {
     transactions
   )
   const expense = await fetchDataWithTotal('expense', 'expenseId', transactions)
+  const report = { banks, income: incomes, costOfGoodsSold, expense }
+  const headers: string[] = findHeaders(report)
 
-  return {
-    banks,
-    income: incomes,
-    costOfGoodsSold,
-    expense,
-  }
+  return { report, headers }
 }
 
 const fetchDataWithTotal = async (
@@ -35,7 +38,7 @@ const fetchDataWithTotal = async (
         (tr) => tr[idField as keyof typeof tr] === item.id
       )
 
-      const itemPeriods: TPeriod = {}
+      const itemPeriods: TItemPeriod = {}
 
       itemTransactions.forEach((tr) => {
         const monthYear = splitDateIntoMonthYear(tr.date)
@@ -46,10 +49,14 @@ const fetchDataWithTotal = async (
             : tr.amount
       })
 
-      return {
-        ...item,
-        periods: itemPeriods,
-      }
+      // transform the object into an array
+      // to make it easier to iterate over it in the front-end
+      const periods: TPeriod[] = Object.keys(itemPeriods).map((key) => ({
+        period: key,
+        amount: itemPeriods[key],
+      }))
+
+      return { ...item, periods }
     })
   } catch (e) {
     console.error(`Failed to fetch data from ${endpoint}: ${e}`)
@@ -59,6 +66,22 @@ const fetchDataWithTotal = async (
 const fetchData = async (endpoint: string) => {
   const res = await fetch(`http://localhost:3001/${endpoint}`)
   return await res.json()
+}
+
+const findHeaders = (report: TReport): string[] => {
+  const headers: Set<string> = new Set()
+
+  Object.keys(report).forEach((key) => {
+    report[key as keyof typeof report].forEach((item: TCategory) => {
+      if (item.periods) {
+        item.periods.map((period: TPeriod) => {
+          headers.add(period.period)
+        })
+      }
+    })
+  })
+
+  return Array.from(headers)
 }
 
 const splitDateIntoMonthYear = (date: string) => {

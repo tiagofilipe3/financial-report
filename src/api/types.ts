@@ -15,10 +15,23 @@ type TTransaction = {
 type TCategory = {
   id: number
   name: string
+  periods?: TPeriod[]
 }
 
 type TPeriod = {
+  period: string
+  amount: number
+}
+
+type TItemPeriod = {
   [key: string]: number
 }
 
-export type { TTransaction, TCategory, TPeriod }
+type TReport = {
+  banks: TCategory[]
+  income: TCategory[]
+  costOfGoodsSold: TCategory[]
+  expense: TCategory[]
+}
+
+export type { TTransaction, TCategory, TPeriod, TReport, TItemPeriod }

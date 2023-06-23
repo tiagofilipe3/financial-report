@@ -44,14 +44,14 @@
       "name": "Office Supplies & Software"
     }
   ],
-  "transactions":      [
+  "transactions": [
     {
       "id": 1,
       "name": "Deposit",
       "description": "Deposit",
       "categoryId": 1,
       "bankId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 3987
     },
     {
@@ -60,7 +60,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 10000
     },
     {
@@ -69,7 +69,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 1000
     },
     {
@@ -78,7 +78,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 567
     },
     {
@@ -87,7 +87,7 @@
       "description": "Sale",
       "categoryId": 3,
       "incomeId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 10000
     },
     {
@@ -96,7 +96,7 @@
       "description": "Sale",
       "categoryId": 3,
       "incomeId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 5000
     },
     {
@@ -105,17 +105,17 @@
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 100
     },
     {
-      "id": 8,
+      "id": 141,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "07-01-2021",
-      "amount": 2000
+      "costOfGoodsSoldId": 1,
+      "date": "08-01-2021",
+      "amount": 100
     },
     {
       "id": 9,
@@ -123,7 +123,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 100
     },
     {
@@ -132,35 +132,8 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 600
-    },
-    {
-      "id": 11,
-      "name": "Microsoft",
-      "description": "Windows 11 license",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "07-01-2021",
-      "amount": 300
-    },
-    {
-      "id": 12,
-      "name": "Google",
-      "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "07-01-2021",
-      "amount": 188.96
-    },
-    {
-      "id": 13,
-      "name": "Google",
-      "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "07-01-2021",
-      "amount": 6
     },
     {
       "id": 19,
@@ -240,7 +213,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 1,
-      "date": "13-01-2021",
+      "date": "01-01-2022",
       "amount": 2000
     },
     {
@@ -249,7 +222,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 1,
-      "date": "13-01-2021",
+      "date": "01-01-2022",
       "amount": 2000
     },
     {
@@ -258,7 +231,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 1,
-      "date": "14-01-2021",
+      "date": "02-01-2022",
       "amount": 2000
     },
     {
@@ -267,7 +240,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 1,
-      "date": "14-01-2021",
+      "date": "02-01-2022",
       "amount": 2000
     },
     {
@@ -276,7 +249,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "08-01-2021",
+      "date": "09-01-2021",
       "amount": 178324
     },
     {
@@ -285,7 +258,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "08-01-2021",
+      "date": "09-01-2021",
       "amount": 279725
     },
     {
@@ -294,7 +267,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "09-01-2021",
+      "date": "10-01-2021",
       "amount": 388455
     },
     {
@@ -303,7 +276,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "09-01-2021",
+      "date": "10-01-2021",
       "amount": 196472
     },
     {
@@ -312,7 +285,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "10-01-2021",
+      "date": "11-01-2021",
       "amount": 43455
     },
     {
@@ -321,7 +294,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "10-01-2021",
+      "date": "11-01-2021",
       "amount": 278267
     },
     {
@@ -330,7 +303,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "11-01-2021",
+      "date": "12-01-2021",
       "amount": 97255
     },
     {
@@ -339,7 +312,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "11-01-2021",
+      "date": "12-01-2021",
       "amount": 351132
     },
     {
@@ -348,7 +321,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "12-01-2021",
+      "date": "01-01-2022",
       "amount": 247051
     },
     {
@@ -357,7 +330,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "12-01-2021",
+      "date": "01-01-2022",
       "amount": 144121
     },
     {
@@ -366,7 +339,7 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "01-01-2022",
+      "date": "02-01-2022",
       "amount": 298450
     },
     {
@@ -375,44 +348,8 @@
       "description": "Wire transfer",
       "categoryId": 1,
       "bankId": 2,
-      "date": "01-01-2022",
+      "date": "02-01-2022",
       "amount": 302759
-    },
-    {
-      "id": 55,
-      "name": "Transfer",
-      "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "02-01-2022",
-      "amount": 189450
-    },
-    {
-      "id": 56,
-      "name": "Transfer",
-      "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "02-01-2022",
-      "amount": 499215
-    },
-    {
-      "id": 57,
-      "name": "Transfer",
-      "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "03-01-2022",
-      "amount": 187126
-    },
-    {
-      "id": 58,
-      "name": "Transfer",
-      "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "03-01-2022",
-      "amount": 231774
     },
     {
       "id": 59,
@@ -541,31 +478,22 @@
       "amount": 122665
     },
     {
-      "id": 73,
-      "name": "Sale",
-      "description": "Sale",
-      "categoryId": 3,
-      "incomeId": 1,
-      "date": "03-01-2022",
-      "amount": 244818
-    },
-    {
-      "id": 74,
-      "name": "Sale",
-      "description": "Sale",
-      "categoryId": 3,
-      "incomeId": 1,
-      "date": "03-01-2022",
-      "amount": 43294
-    },
-    {
       "id": 75,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "08-01-2021",
+      "date": "09-01-2021",
       "amount": 183056
+    },
+    {
+      "id": 163,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 1,
+      "date": "09-01-2021",
+      "amount": 65373
     },
     {
       "id": 76,
@@ -577,12 +505,30 @@
       "amount": 459357
     },
     {
+      "id": 165,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 2,
+      "date": "08-01-2021",
+      "amount": 5432
+    },
+    {
       "id": 77,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "09-01-2021",
+      "date": "10-01-2021",
+      "amount": 375492
+    },
+    {
+      "id": 143,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 1,
+      "date": "10-01-2021",
       "amount": 375492
     },
     {
@@ -595,12 +541,30 @@
       "amount": 289766
     },
     {
+      "id": 149,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 2,
+      "date": "09-01-2021",
+      "amount": 984
+    },
+    {
       "id": 79,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "10-01-2021",
+      "date": "11-01-2021",
+      "amount": 285491
+    },
+    {
+      "id": 144,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 1,
+      "date": "11-01-2021",
       "amount": 285491
     },
     {
@@ -613,12 +577,30 @@
       "amount": 123456
     },
     {
+      "id": 150,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 2,
+      "date": "10-01-2021",
+      "amount": 84356
+    },
+    {
       "id": 81,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "11-01-2021",
+      "date": "12-01-2021",
+      "amount": 6423
+    },
+    {
+      "id": 145,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 1,
+      "date": "12-01-2021",
       "amount": 297816
     },
     {
@@ -631,13 +613,31 @@
       "amount": 483229
     },
     {
+      "id": 151,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 2,
+      "date": "11-01-2021",
+      "amount": 3223
+    },
+    {
       "id": 83,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "12-01-2021",
+      "date": "01-01-2022",
       "amount": 102338
+    },
+    {
+      "id": 146,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 1,
+      "date": "01-01-2022",
+      "amount": 67566
     },
     {
       "id": 84,
@@ -649,12 +649,30 @@
       "amount": 476191
     },
     {
+      "id": 152,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 2,
+      "date": "12-01-2021",
+      "amount": 634
+    },
+    {
       "id": 85,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 1,
-      "date": "01-01-2022",
+      "date": "02-01-2022",
+      "amount": 402123
+    },
+    {
+      "id": 147,
+      "name": "Cost",
+      "description": "Cost of good",
+      "categoryId": 4,
+      "costOfGoodsSoldId": 1,
+      "date": "02-01-2022",
       "amount": 402123
     },
     {
@@ -667,13 +685,13 @@
       "amount": 154610
     },
     {
-      "id": 87,
+      "id": 153,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "02-01-2022",
-      "amount": 380366
+      "costOfGoodsSoldId": 2,
+      "date": "01-01-2022",
+      "amount": 4634
     },
     {
       "id": 88,
@@ -685,21 +703,12 @@
       "amount": 430007
     },
     {
-      "id": 89,
-      "name": "Cost",
-      "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "03-01-2022",
-      "amount": 219052
-    },
-    {
       "id": 90,
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
       "costOfGoodsSoldId": 2,
-      "date": "03-01-2022",
+      "date": "02-01-2022",
       "amount": 442582
     },
     {
@@ -708,7 +717,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 100
     },
     {
@@ -717,7 +726,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "08-01-2021",
+      "date": "09-01-2021",
       "amount": 487702
     },
     {
@@ -726,7 +735,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "08-01-2021",
+      "date": "09-01-2021",
       "amount": 211066
     },
     {
@@ -735,7 +744,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "09-01-2021",
+      "date": "10-01-2021",
       "amount": 369329
     },
     {
@@ -744,7 +753,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "09-01-2021",
+      "date": "10-01-2021",
       "amount": 193086
     },
     {
@@ -753,7 +762,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "10-01-2021",
+      "date": "11-01-2021",
       "amount": 499650
     },
     {
@@ -762,7 +771,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "10-01-2021",
+      "date": "11-01-2021",
       "amount": 499771
     },
     {
@@ -771,7 +780,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "11-01-2021",
+      "date": "12-01-2021",
       "amount": 360506
     },
     {
@@ -780,7 +789,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "11-01-2021",
+      "date": "12-01-2021",
       "amount": 354859
     },
     {
@@ -789,7 +798,7 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "12-01-2021",
+      "date": "01-01-2022",
       "amount": 219086
     },
     {
@@ -798,8 +807,26 @@
       "description": "Fees",
       "categoryId": 5,
       "expenseId": 1,
-      "date": "12-01-2021",
+      "date": "01-01-2022",
       "amount": 472389
+    },
+    {
+      "id": 154,
+      "name": "Fees",
+      "description": "Fees",
+      "categoryId": 5,
+      "expenseId": 1,
+      "date": "02-01-2022",
+      "amount": 865
+    },
+    {
+      "id": 162,
+      "name": "Fees",
+      "description": "Fees",
+      "categoryId": 5,
+      "expenseId": 1,
+      "date": "02-01-2022",
+      "amount": 574
     },
     {
       "id": 102,
@@ -807,7 +834,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "07-01-2021",
+      "date": "08-01-2021",
       "amount": 600
     },
     {
@@ -816,7 +843,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "07-01-2021",
+      "date": "09-01-2021",
       "amount": 324531
     },
     {
@@ -825,7 +852,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "08-01-2021",
+      "date": "09-01-2021",
       "amount": 25187
     },
     {
@@ -834,7 +861,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "08-01-2021",
+      "date": "10-01-2021",
       "amount": 432145
     },
     {
@@ -843,7 +870,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "09-01-2021",
+      "date": "10-01-2021",
       "amount": 12937
     },
     {
@@ -852,7 +879,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "09-01-2021",
+      "date": "11-01-2021",
       "amount": 251754
     },
     {
@@ -861,7 +888,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "10-01-2021",
+      "date": "11-01-2021",
       "amount": 145809
     },
     {
@@ -870,7 +897,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "10-01-2021",
+      "date": "12-01-2021",
       "amount": 235497
     },
     {
@@ -879,7 +906,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "11-01-2021",
+      "date": "12-01-2021",
       "amount": 92735
     },
     {
@@ -888,7 +915,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "11-01-2021",
+      "date": "01-01-2022",
       "amount": 327514
     },
     {
@@ -897,7 +924,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "12-01-2021",
+      "date": "01-01-2022",
       "amount": 43215
     },
     {
@@ -906,7 +933,7 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "12-01-2021",
+      "date": "02-01-2022",
       "amount": 89234
     },
     {
@@ -915,26 +942,8 @@
       "description": "Legal services",
       "categoryId": 5,
       "expenseId": 2,
-      "date": "01-01-2022",
+      "date": "02-01-2022",
       "amount": 319853
-    },
-    {
-      "id": 115,
-      "name": "Legal services",
-      "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "01-01-2022",
-      "amount": 126534
-    },
-    {
-      "id": 116,
-      "name": "Apple",
-      "description": "iPhone 13 Pro Max",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "07-01-2021",
-      "amount": 12000
     },
     {
       "id": 117,
@@ -946,6 +955,15 @@
       "amount": 75000
     },
     {
+      "id": 155,
+      "name": "Amazon",
+      "description": "Kindle Paperwhite",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "08-01-2021",
+      "amount": 20000
+    },
+    {
       "id": 118,
       "name": "Google",
       "description": "Pixel 6",
@@ -953,6 +971,15 @@
       "expenseId": 3,
       "date": "09-01-2021",
       "amount": 285000
+    },
+    {
+      "id": 156,
+      "name": "Google",
+      "description": "Google Nest Hub",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "09-01-2021",
+      "amount": 8000
     },
     {
       "id": 119,
@@ -964,6 +991,15 @@
       "amount": 8000
     },
     {
+      "id": 157,
+      "name": "Nike",
+      "description": "Nike Air Max 90",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "10-01-2021",
+      "amount": 12000
+    },
+    {
       "id": 120,
       "name": "Starbucks",
       "description": "Coffee Run",
@@ -971,6 +1007,15 @@
       "expenseId": 3,
       "date": "11-01-2021",
       "amount": 1200
+    },
+    {
+      "id": 158,
+      "name": "Starbucks",
+      "description": "Mug",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "11-01-2021",
+      "amount": 2500
     },
     {
       "id": 121,
@@ -982,6 +1027,15 @@
       "amount": 440000
     },
     {
+      "id": 159,
+      "name": "Tesla",
+      "description": "Supercharger Service",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "12-01-2021",
+      "amount": 10000
+    },
+    {
       "id": 122,
       "name": "Netflix",
       "description": "Subscription",
@@ -991,12 +1045,39 @@
       "amount": 1500
     },
     {
-      "id": 122,
+      "id": 160,
+      "name": "Netflix",
+      "description": "Movie Rental",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "01-01-2022",
+      "amount": 300
+    },
+    {
+      "id": 164,
+      "name": "Samsung",
+      "description": "Smart TV",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "02-01-2022",
+      "amount": 50000
+    },
+    {
+      "id": 161,
+      "name": "Sony",
+      "description": "PlayStation 5 Game",
+      "categoryId": 5,
+      "expenseId": 3,
+      "date": "02-01-2022",
+      "amount": 4000
+    },
+    {
+      "id": 166,
       "name": "Google",
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "08-01-2023",
+      "date": "08-01-2021",
       "amount": 45000.23
     },
     {
@@ -1005,7 +1086,7 @@
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "09-01-2023",
+      "date": "08-01-2021",
       "amount": 75000.89
     },
     {
@@ -1014,7 +1095,7 @@
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "10-01-2023",
+      "date": "09-01-2021",
       "amount": 250000.31
     },
     {
@@ -1023,7 +1104,7 @@
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "11-01-2023",
+      "date": "09-01-2021",
       "amount": 120000.45
     },
     {
@@ -1032,7 +1113,7 @@
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "12-01-2023",
+      "date": "10-01-2021",
       "amount": 220000.15
     },
     {
@@ -1041,7 +1122,7 @@
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "01-01-2024",
+      "date": "10-01-2021",
       "amount": 350000.98
     },
     {
@@ -1050,7 +1131,7 @@
       "description": "Google Ads",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "02-01-2024",
+      "date": "11-01-2021",
       "amount": 500000.1
     },
     {
@@ -1059,14 +1140,14 @@
       "description": "Google Workspace",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "08-01-2023",
+      "date": "11-01-2021",
       "amount": 5000.34
     },
     {
       "id": 130,
       "categoryId": 5,
       "expenseId": 4,
-      "date": "08-01-2023",
+      "date": "12-01-2021",
       "name": "Google",
       "description": "Google Domains",
       "amount": 30000.2
@@ -1077,14 +1158,14 @@
       "description": "Google Workspace",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "09-01-2023",
+      "date": "12-01-2021",
       "amount": 80000.87
     },
     {
       "id": 132,
       "categoryId": 5,
       "expenseId": 4,
-      "date": "09-01-2023",
+      "date": "01-01-2022",
       "name": "Google",
       "description": "Google Domains",
       "amount": 350000.77
@@ -1095,14 +1176,14 @@
       "description": "Google Workspace",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "10-01-2023",
+      "date": "01-01-2022",
       "amount": 150000.53
     },
     {
       "id": 134,
       "categoryId": 5,
       "expenseId": 4,
-      "date": "10-01-2023",
+      "date": "02-01-2022",
       "name": "Google",
       "description": "Google Domains",
       "amount": 450000.12
@@ -1113,53 +1194,8 @@
       "description": "Google Workspace",
       "categoryId": 5,
       "expenseId": 4,
-      "date": "11-01-2023",
+      "date": "02-01-2022",
       "amount": 25000.98
-    },
-    {
-      "id": 136,
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "11-01-2023",
-      "name": "Google",
-      "description": "Google Domains",
-      "amount": 90000.23
-    },
-    {
-      "id": 137,
-      "name": "Google",
-      "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "12-01-2023",
-      "amount": 120000.14
-    },
-    {
-      "id": 138,
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "12-01-2023",
-      "name": "Google",
-      "description": "Google Domains",
-      "amount": 500000.89
-    },
-    {
-      "id": 139,
-      "name": "Google",
-      "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "01-01-2024",
-      "amount": 10000.38
-    },
-    {
-      "id": 140,
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "01-01-2024",
-      "name": "Google",
-      "description": "Google Domains",
-      "amount": 65000.56
     }
   ],
   "categories": [
