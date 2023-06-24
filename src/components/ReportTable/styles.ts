@@ -17,9 +17,4 @@ const ValueCell = styled(TableCell)({
   borderRightColor: 'rgba(174,184,238,0.29)',
 })
 
-const ToolbarCell = styled(TableCell)({
-  padding: '0 5px 8px 12px',
-  borderRight: '1px solid rgba(174,184,238,0.29)',
-})
-
-export { ReportTitle, CategoryDetailCell, ValueCell, ToolbarCell }
+export { ReportTitle, CategoryDetailCell, ValueCell }
