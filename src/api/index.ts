@@ -43,10 +43,13 @@ const fetchDataWithTotal = async (
       itemTransactions.forEach((tr) => {
         const monthYear = splitDateIntoMonthYear(tr.date)
 
+        //truncate to two decimals
+        const truncatedAmount = +tr.amount.toFixed(2)
+
         itemPeriods[monthYear] =
           itemPeriods[monthYear] !== undefined
-            ? itemPeriods[monthYear] + tr.amount
-            : tr.amount
+            ? +(itemPeriods[monthYear] + truncatedAmount).toFixed(2)
+            : truncatedAmount
       })
 
       // transform the object into an array

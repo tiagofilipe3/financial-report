@@ -1,4 +1,4 @@
-import { TReportTableProps } from './types.ts'
+import { Flex } from 'rebass'
 import {
   Table,
   TableBody,
@@ -7,12 +7,9 @@ import {
   TableHead,
   TableRow,
 } from '@mui/material'
-import { Flex } from 'rebass'
-import { styled } from '@mui/system'
 
-const StyledTableCell = styled(TableCell)({
-  paddingLeft: '40px',
-})
+import { TReportTableProps } from './types.ts'
+import { CategoryDetailCell, ReportTitle, ValueCell } from './styles'
 
 const ReportTable = ({ report, headers }: TReportTableProps) => {
   return (
@@ -20,14 +17,16 @@ const ReportTable = ({ report, headers }: TReportTableProps) => {
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
         <TableHead>
           <TableRow>
-            <TableCell key="report">Financial Report</TableCell>
+            <TableCell key="report">
+              <ReportTitle>Financial Report</ReportTitle>
+            </TableCell>
             {headers.map((header, index) => (
-              <TableCell key={index}>
-                <Flex flexDirection="column">
+              <ValueCell key={index}>
+                <Flex flexDirection="column" alignItems="flex-end">
                   <Flex>Actual</Flex>
-                  {header}
+                  <b>{header}</b>
                 </Flex>
-              </TableCell>
+              </ValueCell>
             ))}
           </TableRow>
         </TableHead>
@@ -36,10 +35,13 @@ const ReportTable = ({ report, headers }: TReportTableProps) => {
             <TableCell>
               <b>Banks</b>
             </TableCell>
+            {Array.from(Array(headers.length)).map((_, index) => (
+              <TableCell key={index}>&nbsp;</TableCell>
+            ))}
           </TableRow>
           {report?.banks.map(({ id, name, periods }) => (
             <TableRow key={id}>
-              <StyledTableCell key={name}>{name}</StyledTableCell>
+              <CategoryDetailCell key={name}>{name}</CategoryDetailCell>
               {periods?.map(({ amount }, index) => (
                 <TableCell key={index}>
                   <Flex flexDirection="column">{amount}</Flex>
@@ -65,9 +67,9 @@ const ReportTable = ({ report, headers }: TReportTableProps) => {
           </TableRow>
           {report?.income.map(({ id, name, periods }) => (
             <TableRow key={id}>
-              <StyledTableCell key={name} sx={{ pl: '40px' }}>
+              <CategoryDetailCell key={name} sx={{ pl: '40px' }}>
                 {name}
-              </StyledTableCell>
+              </CategoryDetailCell>
               {periods?.map(({ amount }, index) => (
                 <TableCell key={index}>
                   <Flex flexDirection="column">{amount}</Flex>
@@ -82,7 +84,7 @@ const ReportTable = ({ report, headers }: TReportTableProps) => {
           </TableRow>
           {report?.costOfGoodsSold.map(({ id, name, periods }) => (
             <TableRow key={id}>
-              <StyledTableCell key={name}>{name}</StyledTableCell>
+              <CategoryDetailCell key={name}>{name}</CategoryDetailCell>
               {periods?.map(({ amount }, index) => (
                 <TableCell key={index}>
                   <Flex flexDirection="column">{amount}</Flex>
@@ -97,7 +99,7 @@ const ReportTable = ({ report, headers }: TReportTableProps) => {
           </TableRow>
           {report?.expense.map(({ id, name, periods }) => (
             <TableRow key={id}>
-              <StyledTableCell key={name}>{name}</StyledTableCell>
+              <CategoryDetailCell key={name}>{name}</CategoryDetailCell>
               {periods?.map(({ amount }, index) => (
                 <TableCell key={index}>
                   <Flex flexDirection="column">{amount}</Flex>
