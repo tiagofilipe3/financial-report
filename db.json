@@ -50,8 +50,7 @@
       "name": "Deposit",
       "description": "Deposit",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 3987
     },
     {
@@ -59,26 +58,23 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 10000
     },
     {
       "id": 3,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "08-01-2021",
+      "categoryId": 2,
+      "date": "8-1-2021",
       "amount": 1000
     },
     {
       "id": 4,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "08-01-2021",
+      "categoryId": 2,
+      "date": "8-1-2021",
       "amount": 567
     },
     {
@@ -86,8 +82,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 10000
     },
     {
@@ -95,8 +90,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 5000
     },
     {
@@ -104,8 +98,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 100
     },
     {
@@ -113,35 +106,31 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 100
     },
     {
       "id": 9,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "08-01-2021",
+      "categoryId": 6,
+      "date": "8-1-2021",
       "amount": 100
     },
     {
       "id": 10,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "08-01-2021",
+      "categoryId": 7,
+      "date": "8-1-2021",
       "amount": 600
     },
     {
       "id": 19,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 1,
-      "date": "09-01-2021",
+      "categoryId": 2,
+      "date": "9-1-2021",
       "amount": 3523
     },
     {
@@ -149,8 +138,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "09-01-2021",
+      "date": "9-1-2021",
       "amount": 2000
     },
     {
@@ -158,17 +146,15 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "10-01-2021",
+      "date": "10-1-2021",
       "amount": 2000
     },
     {
       "id": 22,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 1,
-      "date": "10-01-2021",
+      "categoryId": 2,
+      "date": "10-1-2021",
       "amount": 2000
     },
     {
@@ -176,8 +162,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "11-01-2021",
+      "date": "11-1-2021",
       "amount": 2000
     },
     {
@@ -185,8 +170,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "11-01-2021",
+      "date": "11-1-2021",
       "amount": 2000
     },
     {
@@ -194,8 +178,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "12-01-2021",
+      "date": "12-1-2021",
       "amount": 2000
     },
     {
@@ -203,8 +186,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "12-01-2021",
+      "date": "12-1-2021",
       "amount": 2000
     },
     {
@@ -212,8 +194,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "01-01-2022",
+      "date": "1-1-2022",
       "amount": 2000
     },
     {
@@ -221,8 +202,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "01-01-2022",
+      "date": "1-1-2022",
       "amount": 2000
     },
     {
@@ -230,8 +210,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "02-01-2022",
+      "date": "2-1-2022",
       "amount": 2000
     },
     {
@@ -239,8 +218,7 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 1,
-      "date": "02-01-2022",
+      "date": "2-1-2022",
       "amount": 2000
     },
     {
@@ -248,26 +226,23 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 2,
-      "date": "09-01-2021",
+      "date": "9-1-2021",
       "amount": 178324
     },
     {
       "id": 44,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "09-01-2021",
+      "categoryId": 2,
+      "date": "9-1-2021",
       "amount": 279725
     },
     {
       "id": 45,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "10-01-2021",
+      "categoryId": 2,
+      "date": "10-1-2021",
       "amount": 388455
     },
     {
@@ -275,80 +250,71 @@
       "name": "Transfer",
       "description": "Wire transfer",
       "categoryId": 1,
-      "bankId": 2,
-      "date": "10-01-2021",
+      "date": "10-1-2021",
       "amount": 196472
     },
     {
       "id": 47,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "11-01-2021",
+      "categoryId": 2,
+      "date": "11-1-2021",
       "amount": 43455
     },
     {
       "id": 48,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "11-01-2021",
+      "categoryId": 2,
+      "date": "11-1-2021",
       "amount": 278267
     },
     {
       "id": 49,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "12-01-2021",
+      "categoryId": 2,
+      "date": "12-1-2021",
       "amount": 97255
     },
     {
       "id": 50,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "12-01-2021",
+      "categoryId": 2,
+      "date": "12-1-2021",
       "amount": 351132
     },
     {
       "id": 51,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "01-01-2022",
+      "categoryId": 2,
+      "date": "1-1-2022",
       "amount": 247051
     },
     {
       "id": 52,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "01-01-2022",
+      "categoryId": 2,
+      "date": "1-1-2022",
       "amount": 144121
     },
     {
       "id": 53,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "02-01-2022",
+      "categoryId": 2,
+      "date": "2-1-2022",
       "amount": 298450
     },
     {
       "id": 54,
       "name": "Transfer",
       "description": "Wire transfer",
-      "categoryId": 1,
-      "bankId": 2,
-      "date": "02-01-2022",
+      "categoryId": 2,
+      "date": "2-1-2022",
       "amount": 302759
     },
     {
@@ -356,8 +322,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 36218
     },
     {
@@ -365,8 +330,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "08-01-2021",
+      "date": "8-1-2021",
       "amount": 125352
     },
     {
@@ -374,8 +338,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "09-01-2021",
+      "date": "9-1-2021",
       "amount": 45998
     },
     {
@@ -383,8 +346,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "09-01-2021",
+      "date": "9-1-2021",
       "amount": 223650
     },
     {
@@ -392,8 +354,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "10-01-2021",
+      "date": "10-1-2021",
       "amount": 78101
     },
     {
@@ -401,8 +362,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "10-01-2021",
+      "date": "10-1-2021",
       "amount": 196874
     },
     {
@@ -410,8 +370,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "11-01-2021",
+      "date": "11-1-2021",
       "amount": 282454
     },
     {
@@ -419,8 +378,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "11-01-2021",
+      "date": "11-1-2021",
       "amount": 182935
     },
     {
@@ -428,8 +386,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "12-01-2021",
+      "date": "12-1-2021",
       "amount": 240268
     },
     {
@@ -437,8 +394,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "12-01-2021",
+      "date": "12-1-2021",
       "amount": 449725
     },
     {
@@ -446,8 +402,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "01-01-2022",
+      "date": "1-1-2022",
       "amount": 123754
     },
     {
@@ -455,8 +410,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "01-01-2022",
+      "date": "1-1-2022",
       "amount": 381501
     },
     {
@@ -464,8 +418,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "02-01-2022",
+      "date": "2-1-2022",
       "amount": 276937
     },
     {
@@ -473,8 +426,7 @@
       "name": "Sale",
       "description": "Sale",
       "categoryId": 3,
-      "incomeId": 1,
-      "date": "02-01-2022",
+      "date": "2-1-2022",
       "amount": 122665
     },
     {
@@ -482,8 +434,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "09-01-2021",
+      "date": "9-1-2021",
       "amount": 183056
     },
     {
@@ -491,26 +442,23 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "09-01-2021",
+      "date": "9-1-2021",
       "amount": 65373
     },
     {
       "id": 76,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "08-01-2021",
+      "categoryId": 5,
+      "date": "8-1-2021",
       "amount": 459357
     },
     {
       "id": 165,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "08-01-2021",
+      "categoryId": 5,
+      "date": "8-1-2021",
       "amount": 5432
     },
     {
@@ -518,8 +466,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "10-01-2021",
+      "date": "10-1-2021",
       "amount": 375492
     },
     {
@@ -527,26 +474,23 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "10-01-2021",
+      "date": "10-1-2021",
       "amount": 375492
     },
     {
       "id": 78,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "09-01-2021",
+      "categoryId": 3,
+      "date": "9-1-2021",
       "amount": 289766
     },
     {
       "id": 149,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "09-01-2021",
+      "categoryId": 5,
+      "date": "9-1-2021",
       "amount": 984
     },
     {
@@ -554,8 +498,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "11-01-2021",
+      "date": "11-1-2021",
       "amount": 285491
     },
     {
@@ -563,26 +506,23 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "11-01-2021",
+      "date": "11-1-2021",
       "amount": 285491
     },
     {
       "id": 80,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "10-01-2021",
+      "categoryId": 5,
+      "date": "10-1-2021",
       "amount": 123456
     },
     {
       "id": 150,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "10-01-2021",
+      "categoryId": 5,
+      "date": "10-1-2021",
       "amount": 84356
     },
     {
@@ -590,8 +530,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "12-01-2021",
+      "date": "12-1-2021",
       "amount": 6423
     },
     {
@@ -599,26 +538,23 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "12-01-2021",
+      "date": "12-1-2021",
       "amount": 297816
     },
     {
       "id": 82,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "11-01-2021",
+      "categoryId": 5,
+      "date": "11-1-2021",
       "amount": 483229
     },
     {
       "id": 151,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "11-01-2021",
+      "categoryId": 5,
+      "date": "11-1-2021",
       "amount": 3223
     },
     {
@@ -626,8 +562,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "01-01-2022",
+      "date": "1-1-2022",
       "amount": 102338
     },
     {
@@ -635,26 +570,23 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "01-01-2022",
+      "date": "1-1-2022",
       "amount": 67566
     },
     {
       "id": 84,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "12-01-2021",
+      "categoryId": 5,
+      "date": "12-1-2021",
       "amount": 476191
     },
     {
       "id": 152,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "12-01-2021",
+      "categoryId": 5,
+      "date": "12-1-2021",
       "amount": 634
     },
     {
@@ -662,8 +594,7 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "02-01-2022",
+      "date": "2-1-2022",
       "amount": 402123
     },
     {
@@ -671,483 +602,429 @@
       "name": "Cost",
       "description": "Cost of good",
       "categoryId": 4,
-      "costOfGoodsSoldId": 1,
-      "date": "02-01-2022",
+      "date": "2-1-2022",
       "amount": 402123
     },
     {
       "id": 86,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "01-01-2022",
+      "categoryId": 5,
+      "date": "1-1-2022",
       "amount": 154610
     },
     {
       "id": 153,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "01-01-2022",
+      "categoryId": 5,
+      "date": "1-1-2022",
       "amount": 4634
     },
     {
       "id": 88,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "02-01-2022",
+      "categoryId": 5,
+      "date": "2-1-2022",
       "amount": 430007
     },
     {
       "id": 90,
       "name": "Cost",
       "description": "Cost of good",
-      "categoryId": 4,
-      "costOfGoodsSoldId": 2,
-      "date": "02-01-2022",
+      "categoryId": 5,
+      "date": "2-1-2022",
       "amount": 442582
     },
     {
       "id": 91,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "08-01-2021",
+      "categoryId": 6,
+      "date": "8-1-2021",
       "amount": 100
     },
     {
       "id": 92,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "09-01-2021",
+      "categoryId": 6,
+      "date": "9-1-2021",
       "amount": 487702
     },
     {
       "id": 93,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "09-01-2021",
+      "categoryId": 6,
+      "date": "9-1-2021",
       "amount": 211066
     },
     {
       "id": 94,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "10-01-2021",
+      "categoryId": 6,
+      "date": "10-1-2021",
       "amount": 369329
     },
     {
       "id": 95,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "10-01-2021",
+      "categoryId": 6,
+      "date": "10-1-2021",
       "amount": 193086
     },
     {
       "id": 96,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "11-01-2021",
+      "categoryId": 6,
+      "date": "11-1-2021",
       "amount": 499650
     },
     {
       "id": 97,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "11-01-2021",
+      "categoryId": 6,
+      "date": "11-1-2021",
       "amount": 499771
     },
     {
       "id": 98,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "12-01-2021",
+      "categoryId": 6,
+      "date": "12-1-2021",
       "amount": 360506
     },
     {
       "id": 99,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "12-01-2021",
+      "categoryId": 6,
+      "date": "12-1-2021",
       "amount": 354859
     },
     {
       "id": 100,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "01-01-2022",
+      "categoryId": 6,
+      "date": "1-1-2022",
       "amount": 219086
     },
     {
       "id": 101,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "01-01-2022",
+      "categoryId": 6,
+      "date": "1-1-2022",
       "amount": 472389
     },
     {
       "id": 154,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "02-01-2022",
+      "categoryId": 6,
+      "date": "2-1-2022",
       "amount": 865
     },
     {
       "id": 162,
       "name": "Fees",
       "description": "Fees",
-      "categoryId": 5,
-      "expenseId": 1,
-      "date": "02-01-2022",
+      "categoryId": 6,
+      "date": "2-1-2022",
       "amount": 574
     },
     {
       "id": 102,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "08-01-2021",
+      "categoryId": 7,
+      "date": "8-1-2021",
       "amount": 600
     },
     {
       "id": 103,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "09-01-2021",
+      "categoryId": 7,
+      "date": "9-1-2021",
       "amount": 324531
     },
     {
       "id": 104,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "09-01-2021",
+      "categoryId": 7,
+      "date": "9-1-2021",
       "amount": 25187
     },
     {
       "id": 105,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "10-01-2021",
+      "categoryId": 7,
+      "date": "10-1-2021",
       "amount": 432145
     },
     {
       "id": 106,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "10-01-2021",
+      "categoryId": 7,
+      "date": "10-1-2021",
       "amount": 12937
     },
     {
       "id": 107,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "11-01-2021",
+      "categoryId": 7,
+      "date": "11-1-2021",
       "amount": 251754
     },
     {
       "id": 108,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "11-01-2021",
+      "categoryId": 7,
+      "date": "11-1-2021",
       "amount": 145809
     },
     {
       "id": 109,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "12-01-2021",
+      "categoryId": 7,
+      "date": "12-1-2021",
       "amount": 235497
     },
     {
       "id": 110,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "12-01-2021",
+      "categoryId": 7,
+      "date": "12-1-2021",
       "amount": 92735
     },
     {
       "id": 111,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "01-01-2022",
+      "categoryId": 7,
+      "date": "1-1-2022",
       "amount": 327514
     },
     {
       "id": 112,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "01-01-2022",
+      "categoryId": 7,
+      "date": "1-1-2022",
       "amount": 43215
     },
     {
       "id": 113,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "02-01-2022",
+      "categoryId": 7,
+      "date": "2-1-2022",
       "amount": 89234
     },
     {
       "id": 114,
       "name": "Legal services",
       "description": "Legal services",
-      "categoryId": 5,
-      "expenseId": 2,
-      "date": "02-01-2022",
+      "categoryId": 7,
+      "date": "2-1-2022",
       "amount": 319853
     },
     {
       "id": 117,
       "name": "Amazon",
       "description": "Prime Day Shopping",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "08-01-2021",
+      "categoryId": 8,
+      "date": "8-1-2021",
       "amount": 75000
     },
     {
       "id": 155,
       "name": "Amazon",
       "description": "Kindle Paperwhite",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "08-01-2021",
+      "categoryId": 8,
+      "date": "8-1-2021",
       "amount": 20000
     },
     {
       "id": 118,
       "name": "Google",
       "description": "Pixel 6",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "09-01-2021",
+      "categoryId": 8,
+      "date": "9-1-2021",
       "amount": 285000
     },
     {
       "id": 156,
       "name": "Google",
       "description": "Google Nest Hub",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "09-01-2021",
+      "categoryId": 8,
+      "date": "9-1-2021",
       "amount": 8000
     },
     {
       "id": 119,
       "name": "Nike",
       "description": "Air Jordan 1",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "10-01-2021",
+      "categoryId": 8,
+      "date": "10-1-2021",
       "amount": 8000
     },
     {
       "id": 157,
       "name": "Nike",
       "description": "Nike Air Max 90",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "10-01-2021",
+      "categoryId": 8,
+      "date": "10-1-2021",
       "amount": 12000
     },
     {
       "id": 120,
       "name": "Starbucks",
       "description": "Coffee Run",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "11-01-2021",
+      "categoryId": 8,
+      "date": "11-1-2021",
       "amount": 1200
     },
     {
       "id": 158,
       "name": "Starbucks",
       "description": "Mug",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "11-01-2021",
+      "categoryId": 8,
+      "date": "11-1-2021",
       "amount": 2500
     },
     {
       "id": 121,
       "name": "Tesla",
       "description": "Model 3",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "12-01-2021",
+      "categoryId": 8,
+      "date": "12-1-2021",
       "amount": 440000
     },
     {
       "id": 159,
       "name": "Tesla",
       "description": "Supercharger Service",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "12-01-2021",
+      "categoryId": 8,
+      "date": "12-1-2021",
       "amount": 10000
     },
     {
       "id": 122,
       "name": "Netflix",
       "description": "Subscription",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "01-01-2022",
+      "categoryId": 8,
+      "date": "1-1-2022",
       "amount": 1500
     },
     {
       "id": 160,
       "name": "Netflix",
       "description": "Movie Rental",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "01-01-2022",
+      "categoryId": 8,
+      "date": "1-1-2022",
       "amount": 300
     },
     {
       "id": 164,
       "name": "Samsung",
       "description": "Smart TV",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "02-01-2022",
+      "categoryId": 8,
+      "date": "2-1-2022",
       "amount": 50000
     },
     {
       "id": 161,
       "name": "Sony",
       "description": "PlayStation 5 Game",
-      "categoryId": 5,
-      "expenseId": 3,
-      "date": "02-01-2022",
+      "categoryId": 8,
+      "date": "2-1-2022",
       "amount": 4000
     },
     {
       "id": 166,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "08-01-2021",
+      "categoryId": 9,
+      "date": "8-1-2021",
       "amount": 45000.23
     },
     {
       "id": 123,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "08-01-2021",
+      "categoryId": 9,
+      "date": "8-1-2021",
       "amount": 75000.89
     },
     {
       "id": 124,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "09-01-2021",
+      "categoryId": 3,
+      "date": "9-1-2021",
       "amount": 250000.31
     },
     {
       "id": 125,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "09-01-2021",
+      "categoryId": 3,
+      "date": "9-1-2021",
       "amount": 120000.45
     },
     {
       "id": 126,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "10-01-2021",
+      "categoryId": 9,
+      "date": "10-1-2021",
       "amount": 220000.15
     },
     {
       "id": 127,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "10-01-2021",
+      "categoryId": 9,
+      "date": "10-1-2021",
       "amount": 350000.98
     },
     {
       "id": 128,
       "name": "Google",
       "description": "Google Ads",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "11-01-2021",
+      "categoryId": 9,
+      "date": "11-1-2021",
       "amount": 500000.1
     },
     {
       "id": 129,
       "name": "Google",
       "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "11-01-2021",
+      "categoryId": 9,
+      "date": "11-1-2021",
       "amount": 5000.34
     },
     {
       "id": 130,
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "12-01-2021",
+      "categoryId": 9,
+      "date": "12-1-2021",
       "name": "Google",
       "description": "Google Domains",
       "amount": 30000.2
@@ -1156,16 +1033,14 @@
       "id": 131,
       "name": "Google",
       "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "12-01-2021",
+      "categoryId": 9,
+      "date": "12-1-2021",
       "amount": 80000.87
     },
     {
       "id": 132,
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "01-01-2022",
+      "categoryId": 9,
+      "date": "1-1-2022",
       "name": "Google",
       "description": "Google Domains",
       "amount": 350000.77
@@ -1174,16 +1049,14 @@
       "id": 133,
       "name": "Google",
       "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "01-01-2022",
+      "categoryId": 9,
+      "date": "1-1-2022",
       "amount": 150000.53
     },
     {
       "id": 134,
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "02-01-2022",
+      "categoryId": 9,
+      "date": "2-1-2022",
       "name": "Google",
       "description": "Google Domains",
       "amount": 450000.12
@@ -1192,32 +1065,56 @@
       "id": 135,
       "name": "Google",
       "description": "Google Workspace",
-      "categoryId": 5,
-      "expenseId": 4,
-      "date": "02-01-2022",
+      "categoryId": 9,
+      "date": "2-1-2022",
       "amount": 25000.98
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "Banks"
+      "name": "First Republic Savings",
+      "type": 1
     },
     {
       "id": 2,
-      "name": "Credit Cards"
+      "name": "Chase Checking",
+      "type": 1
     },
     {
       "id": 3,
-      "name": "Income"
+      "name": "Sales of Product",
+      "type": 3
     },
     {
       "id": 4,
-      "name": "Cost of Goods Sold"
+      "name": "Cost of Goods Sold",
+      "type": 4
     },
     {
       "id": 5,
-      "name": "Expense"
+      "name": "Product Shipping",
+      "type": 4
+    },
+    {
+      "id": 6,
+      "name": "Bank Charge & Fees",
+      "type": 5
+    },
+    {
+      "id": 7,
+      "name": "Legal Services",
+      "type": 5
+    },
+    {
+      "id": 8,
+      "name": "Taxes & Licenses",
+      "type": 5
+    },
+    {
+      "id": 9,
+      "name": "Office Supplies & Software",
+      "type": 5
     }
   ]
 }

@@ -3,11 +3,6 @@ type TTransaction = {
   name: string
   description: string
   categoryId: number
-  bankId?: number
-  creditCardId?: number
-  incomeId?: number
-  costOfGoodsSoldId?: number
-  expenseId?: number
   date: string
   amount: number
 }
@@ -21,17 +16,33 @@ type TCategory = {
 type TPeriod = {
   period: string
   amount: number
+  selected?: boolean
 }
 
 type TItemPeriod = {
   [key: string]: number
 }
 
-type TReport = {
+type TCategories = {
   banks: TCategory[]
   income: TCategory[]
   costOfGoodsSold: TCategory[]
   expense: TCategory[]
 }
 
-export type { TTransaction, TCategory, TPeriod, TReport, TItemPeriod }
+type TReport = {
+  categories: TCategories
+  banksTotal: TPeriod[]
+  grossProfit: TPeriod[]
+  expenseTotal: TPeriod[]
+  netIncome: TPeriod[]
+}
+
+export type {
+  TTransaction,
+  TCategory,
+  TPeriod,
+  TReport,
+  TItemPeriod,
+  TCategories,
+}

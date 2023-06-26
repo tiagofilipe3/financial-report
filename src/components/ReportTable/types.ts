@@ -1,8 +1,6 @@
-import { TReport } from '../../api/types.ts'
-
-type TReportTableProps = {
-  report: TReport | undefined
-  headers: string[]
+type TCategoryAndPeriod = {
+  categoryId: number
+  period: string
 }
 
-export type { TReportTableProps }
+export type { TCategoryAndPeriod }
