@@ -16,6 +16,10 @@ In another terminal/tab, type to run the mock API:
 
 ``yarn start-server``
 
+Then you can open in your browser:
+
+`http://localhost:3000/`
+
 To use with npm, delete `yarn.lock` use `npm install`, `npm run dev` and `npm run start-server` instead.
 
 ## Description
