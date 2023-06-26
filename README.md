@@ -33,6 +33,8 @@ I chose to use json-server instead of just mocking an object to make it more rea
 The tradeoff is that I needed to create the logic to get the report and move the transactions between categories. 
 That took some extra time.
 
+When moving a transaction, I assumed it could only be moved within its current period, so I restricted it using DnD.
+
 Overall, given more time, I'd focus on improving the performance, since the report is being calculated on the frontend and there's room for improvement in both the API calls and the front-end data handling.
 
 I'd also make some improvements to the UI: make the period header sticky, add a loading indicator and add the ability to scroll the transactions when the right panel is open.
