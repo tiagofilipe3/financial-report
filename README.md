@@ -1,4 +1,4 @@
-# Balance Financial Report
+# Financial Report
 
 ## How to run
 
